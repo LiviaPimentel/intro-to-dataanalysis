@@ -1,1 +1,1 @@
-This project aims at analyzing aspects related to the gap gender present in courses such as engineering, cumputer science and mathematical sciences. The context of the analysis is based on the brazilian superior education data provided by Brazil's Ministry of Education (MEC) in 2019.
+This project aims at analyzing aspects related to the gap gender present in courses such as engineering, computer science, and mathematical sciences. The context of the analysis is based on the brazilian superior education data provided by Brazil's Ministry of Education (MEC) in 2019.
