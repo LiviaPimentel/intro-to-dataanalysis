@@ -1,1 +1,6 @@
-Archives related to Udacity's course "Intro to Data Analysis"
+Data Science Portfolio - Introductory level
+
+Main features:
+
+* Data visualization;
+* Basic Pandas and Seaborn functions (Exploratory Data Analysis and Data Wrangling)
